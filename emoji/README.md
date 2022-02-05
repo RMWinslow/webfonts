@@ -31,10 +31,9 @@ Please credit the Twemoji project if you use this font elsewhere.
 The font file named 'OpenMojiCOLRv0.ttf' is built using graphics from the [OpenMoji](https://github.com/hfg-gmuend/openmoji) project, 
 which are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#).
 This means that attribution is required and derivative works must be released under the same license.
-
-Please credit the OpenMoji project if you use this font elsewhere.  
-Attribution suggestion from the project's github README:
+The project's github README suggests the following attribution:
 
 > All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
+Please credit the OpenMoji project if you use this font elsewhere.  
 
