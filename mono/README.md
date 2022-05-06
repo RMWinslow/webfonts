@@ -11,6 +11,5 @@ is redistributed under the SIL Open Font License.
 Why do I need monospace webfonts?
 Why not just use the 'monospace'option in css?
 Well, Chrome and Android's default monospace fonts
-don't really get the 'mono' part quite right.
-
+don't really get the 'mono' part quite right. See [here.](https://github.com/googlefonts/noto-fonts/issues/617)
 
