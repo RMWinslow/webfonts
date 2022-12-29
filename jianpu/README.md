@@ -1,0 +1,2 @@
+Jianpu is a simplified musical notation.
+I'm experimenting with the use of font ligatures to render Jianpu notation in-browser without any scripting whatsoever.
