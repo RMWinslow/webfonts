@@ -35,12 +35,14 @@ The project's github README suggests the following attribution:
 
 > All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
+The file `OpenMoji-black-glyf.woff2` is the official black version of the font, emoji v14.0
+
 Please credit the OpenMoji project if you use this font elsewhere.  
 
 
 ## Noto Emoji
 
-The font file names
+The font file named `NotoEmoji-Medium.ttf`
 is the monochrome version of Google's Noto emoji font,
 downloaded [from this page](https://fonts.google.com/noto/specimen/Noto+Emoji/about)
 and redistributed under the Open Font License.
