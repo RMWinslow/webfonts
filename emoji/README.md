@@ -37,3 +37,10 @@ The project's github README suggests the following attribution:
 
 Please credit the OpenMoji project if you use this font elsewhere.  
 
+
+## Noto Emoji
+
+The font file names
+is the monochrome version of Google's Noto emoji font,
+downloaded [from this page](https://fonts.google.com/noto/specimen/Noto+Emoji/about)
+and redistributed under the Open Font License.
